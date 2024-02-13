@@ -1,4 +1,7 @@
 name;ring;quadrant;isNew;description
+A;Adopt;Platforms;FALSE;
+B;Adopt;Tools;FALSE;
+C;Adopt;Languages & frameworks;FALSE;
 HP Catalog;Adopt;Techniques;FALSE;"<ul>
   <li>Family: Desktop - Laptop Platforms</li>
   <li>Applicability: Mandatory single</li>
@@ -78,6 +81,47 @@ Microsoft Sharepoint;Adopt;Techniques;FALSE;"<ul>
   <li>Worldwide contract</li>
 </ul>
 "
-A;Adopt;Platforms;FALSE;
-B;Adopt;Tools;FALSE;
-C;Adopt;Languages & frameworks;FALSE;
+Atlassian Wiki/Twiki;Adopt;Techniques;FALSE;
+Atlassian Wiki;Adopt;Techniques;FALSE;
+Thales Citadel;Adopt;Techniques;FALSE;
+Microsoft Exchange 2016 / NUCO;Adopt;Techniques;FALSE;
+Microsoft Exchange on line / NUCO;Adopt;Techniques;FALSE;
+CISCO Jabber/UCC;Adopt;Techniques;FALSE;
+WMware Workspace One / ECHO;Adopt;Techniques;FALSE;
+Microsoft Windows Server 2012;Hold;Techniques;FALSE;
+Microsoft Windows Server 2016;Hold;Techniques;FALSE;
+Microsoft Windows Server 2019;Adopt;Techniques;FALSE;
+Microsoft Windows Server 2022;Adopt;Techniques;FALSE;
+Red Hat Enterprise Linux 6;Hold;Techniques;FALSE;
+Red Hat Enterprise Linux 7;Hold;Techniques;FALSE;
+Red Hat Enterprise Linux 8;Adopt;Techniques;FALSE;
+Red Hat Enterprise Linux 9;Trial;Techniques;FALSE;
+Ubuntu Server 18.04 LTS;Hold;Techniques;FALSE;
+Ubuntu Server 20.04 LTS;Hold;Techniques;FALSE;
+Ubuntu Server 22.04 LTS;Adopt;Techniques;FALSE;
+HP Server Hardware;Adopt;Techniques;FALSE;
+DELL Server Hardware ;Adopt;Techniques;FALSE;
+CISCO Server Hardware;Adopt;Techniques;FALSE;
+Arkadin Audio Web Conference;Adopt;Techniques;FALSE;
+SiteMinder WebSSO;Adopt;Techniques;FALSE;
+Sailpoint;Adopt;Techniques;FALSE;
+Red Hat Stellite;Adopt;Techniques;FALSE;
+Microsoft SCCM;Adopt;Techniques;FALSE;
+McAfee;Adopt;Techniques;FALSE;
+Trellix;Adopt;Techniques;FALSE;
+KeePass;Adopt;Techniques;FALSE;
+Prim'x ZoneCentral;Adopt;Techniques;FALSE;
+Prim'x ZED;Adopt;Techniques;FALSE;
+Prim'x ZEDMAIL;Adopt;Techniques;FALSE;
+Thales/Gemalto ID PRIM;Adopt;Techniques;FALSE;
+McAfee Email Gateway;Adopt;Techniques;FALSE;
+Sophos PureMessage / Endpoint security and control;Adopt;Techniques;FALSE;
+IDnomic OpenTrust PKI;Adopt;Techniques;FALSE;
+Thales/Gemalto LUNA;Adopt;Techniques;FALSE;
+ALCSID;Adopt;Techniques;FALSE;
+EMC (SAN);Adopt;Techniques;FALSE;
+NetApp (NAS/SAN);Adopt;Techniques;FALSE;
+Quantum;Adopt;Techniques;FALSE;
+DELL/EMC Backup & Restore;Adopt;Techniques;FALSE;
+Veeam;Adopt;Techniques;FALSE;
+Veritas;Adopt;Techniques;FALSE;
