@@ -1,0 +1,80 @@
+name,ring,quadant,isNew,description
+HP Catalog,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Desktop - Laptop Platforms</li>
+  <li>Applicability: Mandatory single</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+CITRIX Virtual apps & desktop,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Virtual Desktop Infrastructure</li>
+  <li>Applicability: Mandatory short-list</li>
+</ul>
+"
+VMware Horizon (ALCEA),Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Virtual Desktop Infrastructure</li>
+  <li>Applicability: Mandatory short-list</li>
+</ul>
+"
+Microsoft Windows 7,Hold,Techniques,FALSE,"<ul>
+  <li>Family: Windows workstation</li>
+  <li>Applicability: Phase-out</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+Microsoft Windows 10,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Windows workstation</li>
+  <li>Applicability: Mandatory single</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+Microsoft Office 365,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Office</li>
+  <li>Applicability: Mandatory single</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+Microsoft Office pro 2019,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Office</li>
+  <li>Applicability: Mandatory single</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+Atlassian Jira,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Project & Issues Tracking</li>
+  <li>Applicability: Mandatory single</li>
+</ul>
+"
+KAP IT iOBEYA 4.5,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Digital Visual mgt</li>
+  <li>Applicability: Mandatory single</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+Thales Live Streaming,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Event Brodacasting</li>
+  <li>Applicability: Recommended</li>
+</ul>
+"
+WEB TV,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Storage & Streaming</li>
+  <li>Applicability: Recommended</li>
+</ul>
+"
+OpenText LiveLink/T-TOL,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Group content management</li>
+  <li>Applicability: Mandatory single</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+OpenText LiveLink,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Local content management</li>
+  <li>Applicability: Mandatory short-list</li>
+  <li>Worldwide contract</li>
+</ul>
+"
+Microsoft Sharepoint,Adopt,Techniques,FALSE,"<ul>
+  <li>Family: Local content management</li>
+  <li>Applicability: Mandatory short-list</li>
+  <li>Worldwide contract</li>
+</ul>
+"
